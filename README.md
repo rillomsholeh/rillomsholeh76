@@ -13,7 +13,7 @@
 
 - 📫 How to reach me ** **
 
-- 📄 Know about my experiences [here](https://kontena.vercel.app/CV.pdf/1iC6dOlIxiyS3xbTKi0OfYKaSU2pmZXsI/view)
+- 📄 Know about my experiences [here] 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
