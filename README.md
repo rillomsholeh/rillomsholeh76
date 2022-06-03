@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad SHoleh</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Sholeh </h1>
 <h3 align="center">A Passionated Person who always exploring stuff about Coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaruiaikara&label=Profile%20views&color=980eb4&style=flat" alt="akaruiaikara" /> </p>
